@@ -1,4 +1,4 @@
-Esta es la historia de Manuel Guerrero
+﻿Esta es la historia de Manuel Guerrero
 
 tiene 32 años y nacio en Tovar Merida Venezuela 
 
@@ -7,3 +7,5 @@ vive en Buenos Aires
 Vive con su esposa en Buenos Aires, aunque nunca se caso.
 
 Tienen un bebe de 7 meses llamado Manuel Ignacio.
+
+Hablaremos de su vida.
